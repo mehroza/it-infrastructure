@@ -1,0 +1,13 @@
+SERVER INVENTORY
+
+Server 1:
+Hostname: DC01
+Operating System: Windows Server 2025
+IP Address: 192.168.10.10
+Role: Active Directory and DNS
+
+Server 2:
+Hostname: FILE01
+Operating System: Ubuntu Server 26
+IP Address: 192.168.10.20
+Role: File Server

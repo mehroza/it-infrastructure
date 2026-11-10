@@ -1,0 +1,6 @@
+IT SUPPORT PROCEDURES
+
+1. Check network connectivity.
+2. Verify DNS resolution.
+3. Check server availability.
+4. Escalate unresolved issues to the IT administrator.
